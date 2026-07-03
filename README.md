@@ -30,7 +30,7 @@ jwt-fastapi-auth-demo/
 ## Setup
 
 ```bash
-git clone https://github.com/himanitayal/jwt-fastapi-auth-demo.git
+git clone https://github.com/aihimanitayal/jwt-fastapi-auth-demo.git
 cd jwt-fastapi-auth-demo
 python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
